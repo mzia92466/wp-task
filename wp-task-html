@@ -1,0 +1,92 @@
+Name: Muhammad Zia
+MIS ID: 31802
+Section: BSCS 6th A
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Wp Task Assignment</title>
+</head>
+<body>
+    <!-- Heading Tag -->
+    <h1>Muhammad Zia</h1>
+    <h2>Muhammad Zia</h2>
+    <h3>Muhammad Zia</h3>
+    <h4>Muhammad Zia</h4>
+    <h5>Muhammad Zia</h5>
+    <h6>Muhammad Zia</h6>
+
+    <!-- Paragraph Tag -->
+    <p>Muhammad Zia is a student of BSCS 6th A. Also do task of WP</p>
+
+    <!--With Line Break -->
+    Muhammad Zia is a html developer <br> and he works hard.
+
+    <!-- bold -->
+    <br>
+
+    <b>Muhammad Zia</b>
+
+    <br>
+<!-- strong -->
+
+    <strong>Muhammad Zia</strong>
+
+    <br>
+    <!-- emphasize -->
+
+    <em>Muhammad Zia</em>
+
+    <br>
+    <!-- italic -->
+
+    <i>Muhammad Zia</i>
+
+    <!-- order list -->
+    <ol>
+        <li>
+            Muhammad
+        </li>
+        <li>
+            Zia
+        </li>
+        <li>
+            Noman
+        </li>
+    </ol>
+
+    <!-- unordered list -->
+    <ul>
+        <li>
+            Muhammad
+        </li>
+        <li>
+            Zia
+        </li>
+        <li>
+            Noman
+        </li>
+    </ul>
+
+<!-- table -->
+
+    <table>
+        <tr>
+          <th>Fabric Name</th>
+          <th>Type</th>
+          <th>Meter</th>
+        </tr>
+        <tr>
+          <td>Nishat Lilen</td>
+          <td>Cotton</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Gul Ahemd</td>
+          <td>Washing Ware</td>
+          <td>6</td>
+        </tr>
+      </table>
+      
+</body>
+</html>
